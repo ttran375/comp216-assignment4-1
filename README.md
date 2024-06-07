@@ -1,4 +1,4 @@
-# Lab 4 – Using threads.
+# Lab 4 – Using threads
 
 This lab is a warm-up for the next assignment. We will learn to build a
 multi-threaded application. You will write a function that will simulate
